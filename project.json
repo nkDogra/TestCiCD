@@ -21,7 +21,7 @@
     "netFrameworkLazyLoading": false,
     "isPausable": true,
     "isAttended": false,
-    "requiresUserInteraction": true,
+    "requiresUserInteraction": false,
     "supportsPersistence": false,
     "workflowSerialization": "DataContract",
     "excludedLoggedData": [
@@ -38,7 +38,6 @@
     "projectProfile": "Developement",
     "outputType": "Process",
     "libraryOptions": {
-      "includeOriginalXaml": false,
       "privateWorkflows": []
     },
     "processOptions": {
