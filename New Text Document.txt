@@ -1,0 +1,5 @@
+<Project Sdk="UiPath.Studio.MSBuild.Sdk/25.10.0">
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows7.0</TargetFramework>
+  </PropertyGroup>
+</Project>
